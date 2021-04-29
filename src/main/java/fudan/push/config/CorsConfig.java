@@ -1,4 +1,4 @@
-package push.domain.config;
+package fudan.push.config;
 
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

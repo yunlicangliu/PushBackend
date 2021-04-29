@@ -1,4 +1,4 @@
-package push.domain.request;
+package fudan.push.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,10 +1,10 @@
-package push.domain;
+package fudan.push;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DomainApplicationTests {
+class PushApplicationTests {
 
     @Test
     void contextLoads() {
